@@ -60,5 +60,5 @@ Traditional credit scores often misclassify "Stackers" as low-risk borrowers bec
     * `notebooks/3_Policy_Simulation.ipynb`
 
 ## 📝 Author
-* **[Your Name]**
+* **Nguyen Tri Doan. Email: Doantri12343@gmail.com**
 * *Note: This project uses synthetic data for educational and analytical demonstration purposes.*
